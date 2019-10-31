@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	background:red;
 }
 ol, ul {
 	list-style: none;
@@ -64,3 +65,57 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/*first-section img{
+	display: inline-block;
+	vertical-align:middle;
+}
+parent-main{
+	margin: 0% 5% 0% 0%;
+	display: inline-block;
+	text-align: center;
+}
+first-section{
+	widows: 100%;
+	text-align: center;
+}*/
+
+.innovation{
+	display:inline-block;
+}
+nav{
+	border: 2px solid black!;
+	display:inline-block;
+}
+
+
+/* .list{
+	padding: 50px;
+} */
+
+
+.logo{
+	padding-left: 200px;
+}
+
+
+h1{
+	text-align: center;
+	font-size: 65px;
+	
+}
+
+/* .button{
+	text-align: center;
+	box-sizing: border-box;
+  	width: 120px;
+  	height: 35px;
+  	padding: 7px;  
+	border: 1px solid black;
+	margin: 0 auto;
+} */
+	
+a{
+	color:white;
+	text-decoration:none;
+}
